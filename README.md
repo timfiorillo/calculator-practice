@@ -1,21 +1,11 @@
-# cof7746fc8c5740e3d3fa6020
+Dead simple calculator app for practice.
 
-Quick start:
+Built using:
+• HTML
+• CSS
+• Javascript
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+v1 - store given values in variables, create buttons to add, subtract, divide, and multiply. 
+    (custom variation) - added CLEAR button to 0 the result.
+    
+Need to revisit later and add ability for user to define own values to calculate.
